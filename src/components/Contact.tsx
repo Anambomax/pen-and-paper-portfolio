@@ -15,8 +15,8 @@ const Contact = () => {
         
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           <div className="bg-gray-800/50 backdrop-blur-sm p-6 rounded-xl border border-gray-700 hover:border-amber-500 transition-all duration-300">
-            <h3 className="text-lg font-semibold mb-2 text-amber-400">Email</h3>
-            <p className="text-gray-300">hello@yourname.com</p>
+            <h3 className="text-lg font-semibold mb-2 text-amber-400">Phone</h3>
+            <p className="text-gray-300">+254741632798</p>
           </div>
           
           <div className="bg-gray-800/50 backdrop-blur-sm p-6 rounded-xl border border-gray-700 hover:border-amber-500 transition-all duration-300">

@@ -14,9 +14,9 @@ const Hero = () => {
         </div>
         
         <h1 className="text-5xl md:text-7xl font-serif font-bold text-gray-900 mb-6 leading-tight">
-          Crafting Stories That
+          I'm Maxwell Anambo
           <span className="block text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600">
-            Captivate Hearts
+            Crafting Stories That Captivate
           </span>
         </h1>
         
